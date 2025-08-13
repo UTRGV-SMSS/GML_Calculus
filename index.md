@@ -17,6 +17,6 @@ Welcome! This site documents our ongoing project to implement and study **Specif
 **Highlights & Quick Downloads**
 - **Overview (PDF):** one-page visual summary of the specs model → [Download](/assets/files/Overview.pdf)
 - **Learning Targets F2025 (PDF):** the full list of targets used in the course → [Download](/assets/files/LearningTargetsF2025.pdf)
-- **Lecture Schedule F2025 (PDF):** week-by-week plan integrating targets, PLTL, and WeBWorK → [Download](/assets/files/Cal1LectureSchedule-Fall2025.pdf)
+- **Lecture Schedule F2025 (PDF):** week-by-week plan integrating targets, PLTL, and WeBWorK → [Download](/assets/files/Cal1_LectureSchedule-Fall2025.pdf)
 - **Sample Syllabus (DOCX):** example syllabus illustrating specs grading policies → [Download](/assets/files/SampleSyllabus.docx)
 - **Paper (PDF):** *Shaping Mathematics Identity: Specifications Grading in Calculus I at an HSI* → [Download](/assets/files/ShapingMathIdentity.pdf)
