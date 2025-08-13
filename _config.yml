@@ -12,7 +12,7 @@ kramdown:
 nav_sort: case_insensitive
 markdown: kramdown
 aux_links:
-  "University Math Department":
-    - "https://example.edu/math"
+  "UTRGV School of Mathematical and Statistical Sciences":
+    - "https://utrgv.edu/smss"
   "GitHub Repository":
-    - "https://github.com/your-org-or-user/your-repo"
+    - "https://github.com/UTRGV-SMSS/GML_Calculus"
