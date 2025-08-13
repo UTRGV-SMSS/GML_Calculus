@@ -1,0 +1,18 @@
+title: Specifications Grading in Calculus I
+description: Ongoing project to implement, study, and share materials for specifications grading in Calculus I.
+theme: null
+remote_theme: just-the-docs/just-the-docs
+url: ""
+search_enabled: true
+plugins:
+  - jekyll-seo-tag
+kramdown:
+  input: GFM
+  hard_wrap: false
+nav_sort: case_insensitive
+markdown: kramdown
+aux_links:
+  "University Math Department":
+    - "https://example.edu/math"
+  "GitHub Repository":
+    - "https://github.com/your-org-or-user/your-repo"
