@@ -14,5 +14,3 @@ markdown: kramdown
 aux_links:
   "UTRGV School of Mathematical and Statistical Sciences":
     - "https://utrgv.edu/smss"
-  "GitHub Repository":
-    - "https://github.com/UTRGV-SMSS/GML_Calculus"
