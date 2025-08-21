@@ -15,7 +15,7 @@ Peer-reviewed article on the impact of specifications grading on students’ mat
 
 
 ## Our Never-Ending Pathway to Innovate Calculus 1: Course Coordination and Active Learning to Specifications Grading and Growth Mindset (PDF)
-A Peer-reviewed article detailing  the implementation of initiatives designed to support instructional strategies aimed at fostering more fair and inclusive learning practices in Precalculus, Calculus 1, and Calculus 2 courses at the University of Texas Rio Grande Val- ley.
+Peer-reviewed article detailing  the implementation of initiatives designed to support instructional strategies aimed at fostering more fair and inclusive learning practices in Precalculus, Calculus 1, and Calculus 2 courses at the University of Texas Rio Grande Valley.   
 [Download the PDF](/assets/files/Never_Ending_Pathway.pdf)
 
 
