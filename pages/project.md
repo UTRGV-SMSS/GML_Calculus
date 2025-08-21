@@ -18,9 +18,10 @@ permalink: /pages/project
 5. Share materials and results with the wider community.
 
 ## Team
-- Add names and roles here.
-
-## Timeline
-- **2023–2024:** Pilot and iteration.
-- **2024–2025:** Scaling and formal evaluation.
-- **2025–:** Dissemination (talks, papers, workshops).
+- Dr. Cristina Villalobos
+- Dr. Luis Fernandez
+- Dr. Kaitlyn Serbin
+- Dr. Shagayegh Setayesh
+- Mr. Guillermo Garza
+- Dr. Andras Balogh
+- Dr. Timothy Huber

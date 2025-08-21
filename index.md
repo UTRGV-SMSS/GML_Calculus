@@ -20,3 +20,5 @@ Welcome! This site documents our ongoing project to implement and study **Specif
 - **Lecture Schedule F2025 (PDF):** week-by-week plan integrating targets, PLTL, and WeBWorK → [Download](/assets/files/Cal1_LectureSchedule-Fall2025.pdf)
 - **Sample Syllabus (DOCX):** example syllabus illustrating specs grading policies → [Download](/assets/files/SampleSyllabus.docx)
 - **Paper (PDF):** *Shaping Mathematics Identity: Specifications Grading in Calculus I at an HSI* → [Download](/assets/files/ShapingMathIdentity.pdf)
+
+**Contact Links.** Contact [Dr. Cristina Villalobos](mailto:cristina.villalobos@utrgv.edu) or [Dr. Luis Fernandez](luis.fernandez01@utrgv.edu) for more info.

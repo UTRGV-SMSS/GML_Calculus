@@ -19,6 +19,3 @@ Week-by-week mapping of textbook sections, videos, PLTL activities, and WeBWorK 
 ## Sample Syllabus (DOCX)
 An example syllabus integrating specifications grading, growth mindset practices, revision policies, and course expectations.  
 [Download the DOCX](/assets/files/SampleSyllabus.docx)
-
-## Rubrics
-Add rubric files to `assets/files/` and link them here.
