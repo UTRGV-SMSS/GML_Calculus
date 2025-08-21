@@ -3,6 +3,7 @@ description: Ongoing project to implement, study, and share materials for specif
 theme: null
 remote_theme: just-the-docs/just-the-docs
 url: ""
+baseurl: "/GML_Calculus"
 search_enabled: true
 plugins:
   - jekyll-seo-tag
