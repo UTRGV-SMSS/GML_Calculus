@@ -21,4 +21,4 @@ Welcome! This site documents our ongoing project to implement and study **Specif
 - **Sample Syllabus (DOCX):** example syllabus illustrating specs grading policies → [Download](/assets/files/SampleSyllabus.docx)
 - **Paper (PDF):** *Shaping Mathematics Identity: Specifications Grading in Calculus I at an HSI* → [Download](/assets/files/ShapingMathIdentity.pdf)
 
-**Contact Links.** Contact [Dr. Cristina Villalobos](mailto:cristina.villalobos@utrgv.edu) or [Dr. Luis Fernandez](luis.fernandez01@utrgv.edu) for more info.
+**Contact Links.** Contact [Dr. Cristina Villalobos](mailto:cristina.villalobos@utrgv.edu) or [Dr. Luis Fernandez](mailto:luis.fernandez01@utrgv.edu) for more info.

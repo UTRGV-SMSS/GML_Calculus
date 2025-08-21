@@ -8,5 +8,5 @@ permalink: /pages/support
 
 # Support
 
-Contact [Dr. Cristina Villalobos](mailto:cristina.villalobos@utrgv.edu) or [Dr. Luis Fernandez](luis.fernandez01@utrgv.edu)
+Contact [Dr. Cristina Villalobos](mailto:cristina.villalobos@utrgv.edu) or [Dr. Luis Fernandez](mailto:luis.fernandez01@utrgv.edu)
 
