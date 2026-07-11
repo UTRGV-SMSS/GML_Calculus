@@ -8,6 +8,11 @@ permalink: /pages/outputs
 
 # Outputs
 
+## Measuring What Matters: Specifications Grading and Latin* Students’ Mathematics Identity
+Peer-reviewed article examining the relationship between Specifications Grading and mathematics identity among 846 Latin* Calculus I students at a Hispanic-Serving Institution, finding that this outcomes-based, revision-oriented grading system is associated with gains in students' mathematical competence, recognition, and interest, with multilingual students showing particular resilience over the course of the semester.
+[Download the PDF]({{ site.baseurl }}/assets/files/P_2026_Measuring What Matters Math ID.pdf)
+
+
 ## Shaping Mathematics Identity: Specifications Grading in Calculus I at an HSI (PDF)
 Peer-reviewed article on the impact of specifications grading on students’ mathematical identity at an HSI.  
 [Download the PDF]({{ site.baseurl }}/assets/files/ShapingMathIdentity.pdf)
